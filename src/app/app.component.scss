@@ -1,0 +1,16 @@
+* {
+    font-family: lato;
+}
+
+.menu-header-bg {
+    background: #7590d6;
+    background: linear-gradient(90deg, #7590d6 0%, #4d71d7 100%);
+    border-radius: 10px 10px 10px 50px;
+    box-shadow: 0 1px 10px rgba(98, 140, 255, 0.5);
+    height: 180px;
+    margin-bottom: 60px;
+    margin-left: -18px;
+    margin-top: -50px;
+    transform: rotate(-15deg);
+    width: 350px;
+}
